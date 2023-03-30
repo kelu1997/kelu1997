@@ -6,7 +6,9 @@
 [<img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Mail.Ru&logoColor=white">](mailto:klpennington1997@gmail.com)  
 
 
-I'm Kevin, a **machine learning** and **statistical data science engineer** trying my best not to overfit, my interests include cryptography, anomoly detection, computer vision, and ML applications in the cloud.
+I'm Kevin, a **machine learning** and **statistical data science engineer** trying my best not to overfit. 
+
+My interests include cryptography, anomoly detection, computer vision, and ML applications in the cloud.
 <!--
 - ✍️ Currently: Updating my professional work
 - 👀 Looking for: Full-time data science or machine learning position. [Kevin Pennington Resume](https://drive.google.com/uc?export=download&id=1tlrlGLi9aTU6R-8DqYmJiYlv0yTnNrr0) (PDF download)
