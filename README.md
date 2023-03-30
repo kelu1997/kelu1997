@@ -6,13 +6,12 @@
 [<img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Mail.Ru&logoColor=white">](mailto:klpennington1997@gmail.com)  
 
 
-I'm Kevin, a **machine learning** and **statistical data science engineer** that dabbles in anomoly detection, computer vision, and ML applications in the cloud.  I love learning 🌱, design 🎨,  and just making things make sense 🤯. 
-
+I'm Kevin, a **machine learning** and **statistical data science engineer** trying my best not to overfit, my interests include cryptography, anomoly detection, computer vision, and ML applications in the cloud.
+<!--
 - ✍️ Currently: Updating my professional work
 - 👀 Looking for: Full-time data science or machine learning position. [Kevin Pennington Resume](https://drive.google.com/uc?export=download&id=1tlrlGLi9aTU6R-8DqYmJiYlv0yTnNrr0) (PDF download)
-- 💬 Contact me: through Linkedin or [email](mailto:klpennington1997@gmail.com) to talk about AI in art or show some cool UI designs!
-
-*At the moment, this github is still under construction, but new items and projects would be coming very soon!*
+-->
+- 💬 Contact me: through Linkedin or [email](mailto:klpennington1997@gmail.com) to talk about AI
 
 --- 
 ### Technologies and Tools 🚀:
@@ -26,18 +25,12 @@ I'm Kevin, a **machine learning** and **statistical data science engineer** that
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 
 ---
-### To-Do ✔️:
-- [x] Set up Github Pages site
-- [x] Set up & polish Github profile README
-- [ ] Reformat projects for easy info guides
-
-
 <!--
 **emilc-jpg/emilc-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
