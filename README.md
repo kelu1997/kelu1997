@@ -1,4 +1,4 @@
-# Heya, I'm Kevin Pennington <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+# Hi There, I'm Kevin Pennington</h1>
 <img width="400" height="450" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif?raw=true" align=right>
 
 [<img src="https://img.shields.io/badge/Github Pages-8B89CC?style=for-the-badge&logo=GitHub&logoColor=white">](https://kelu1997.github.io/)
