@@ -1,9 +1,8 @@
 # Hi There, I'm Kevin Pennington</h1>
 <img width="400" height="450" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif?raw=true" align=right>
 
-[<img src="https://img.shields.io/badge/Github Pages-8B89CC?style=for-the-badge&logo=GitHub&logoColor=white">](https://kelu1997.github.io/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kpenn97/)
-[<img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Mail.Ru&logoColor=white">](mailto:klpennington1997@gmail.com)  
+[<img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Mail.Ru&logoColor=white">](mailto:kl.pennington@outlook.com)  
 
 
 I'm Kevin, a **machine learning** and **statistical data science engineer** trying my best not to overfit. 
@@ -38,6 +37,7 @@ My interests include cryptography, anomoly detection, computer vision, and ML ap
 
 profile views
 ![](https://komarev.com/ghpvc/?username=emilc-jpg&color=yellow) 
+[<img src="https://img.shields.io/badge/Github Pages-8B89CC?style=for-the-badge&logo=GitHub&logoColor=white">](https://kelu1997.github.io/)
 
 profile badges
 https://github.com/Envoy-VC/awesome-badges
